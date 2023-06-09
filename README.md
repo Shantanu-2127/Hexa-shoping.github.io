@@ -12,8 +12,7 @@ A simple e-commerce website built using HTML, CSS, and JavaScript.
 ## Introduction
 The Hexa Shopping website is a basic e-commerce platform developed using HTML, CSS, and JavaScript. It provides a user-friendly interface for browsing products, adding them to the cart, and completing the purchase. This project serves as a learning exercise and demonstration of fundamental web development techniques.
 
-![Hexa Shopping Website Screenshot](![image](https://github.com/Shantanu-2127/Hexa-shoping.github.io/assets/72463363/17251154-3558-4de9-9701-6500dc4cb539)
-)
+![Hexa Shopping Website Screenshot](![f1](https://github.com/Shantanu-2127/Hexa-shoping.github.io/assets/72463363/285b81e6-6875-45be-854b-f054053580e4)
 
 ## Features
 - User-friendly interface with responsive design
