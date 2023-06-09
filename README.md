@@ -1,5 +1,6 @@
 # Hexa-shoping.github.io
 [Run the example live](https://shantanu-2127.github.io/Hexa-shoping.github.io/)
+
 A simple e-commerce website built using HTML, CSS, and JavaScript.
 
 ## Table of Contents
